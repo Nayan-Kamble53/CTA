@@ -1,0 +1,14 @@
+body
+{
+  background-image:url(bg.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+  
+  li
+  {
+    border-color: coral;
+    border-style: solid;
+    border-width: 2px;
+    background-color: lightblue;
+  }
